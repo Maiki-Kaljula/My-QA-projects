@@ -1,4 +1,4 @@
-# Maiki's Programming Journey
+# Maiki's QA Adventures
 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
