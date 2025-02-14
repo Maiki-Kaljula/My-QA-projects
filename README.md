@@ -37,7 +37,7 @@
 *  API testing automation with Postman.
 
 
-<p>While my primary focus is QA, I also have experience with:</p>
+<p>Previous experience:</p>
 
 <div align="center">
   <a href="https://github.com/Maiki-Kaljula?tab=repositories&q=&type=&language=python&sort=">
