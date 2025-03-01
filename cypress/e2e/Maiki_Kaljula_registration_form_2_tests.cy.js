@@ -88,7 +88,7 @@ describe('Functional tests', () => {
     it('User cannot submit form when username is absent', () => {
         inputValidMandatoryData('johnDoe');
         cy.get('input[data-testid="user"]').clear(); // Clear the username field
-        cy.get('h2').contains('Password').click(); // Trigger validation
+        cy.get('h2').contains('Password').click(); // Trigger validation 
 
         cy.get('.submit_button').should('be.disabled');
         cy.get('#success_message').should('not.be.visible');
